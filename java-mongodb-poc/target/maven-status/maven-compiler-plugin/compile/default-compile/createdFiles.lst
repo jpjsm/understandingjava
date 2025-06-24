@@ -1,0 +1,6 @@
+com\dell\dtc\ade\portal\service\mongodb\Picture.class
+com\dell\dtc\ade\portal\service\mongodb\Resources.class
+com\dell\dtc\ade\portal\service\mongodb\InitMongoDb.class
+com\dell\dtc\ade\portal\service\mongodb\Insert50KDocuments.class
+com\dell\dtc\ade\portal\service\mongodb\PictureCollection.class
+com\dell\dtc\ade\portal\service\mongodb\Insert1KDocuments.class
