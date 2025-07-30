@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@stoplight/cli": "^6.0.1387"
+  }
+}
